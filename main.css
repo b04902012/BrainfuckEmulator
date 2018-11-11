@@ -1,0 +1,28 @@
+#c_code *{
+    font-family:monospace;
+}
+#down{
+    position:relative;
+}
+#c_code_container{
+    height:60vh;
+    overflow:scroll;
+}
+#left{
+    position:absolute;
+    width:40%;
+    top:0px;
+    left:0px;
+    display:inline-block;
+} 
+#right{
+    position:absolute;
+    width:40%;
+    display:inline-block;
+    top:0px;
+    left:50%;
+}
+#memory *{
+    width:8%;
+
+}
